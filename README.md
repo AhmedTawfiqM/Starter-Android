@@ -12,6 +12,7 @@
 - [Description](#Description)
 - [Software Stack](#Stack)
 - [Why](#why)
+- [Installation](#installation)
 
 
 ## Description
@@ -51,6 +52,14 @@
 - Allows Re-Use of Codes
 - Improves Manageability
 - Collaboration
+
+
+# Installation
+
+1. clone the project in android studio
+2. change applicationID (packageName ) as you like
+3. change the project name from main like this title = "Starter Flutter"
+4. may need to sync , clean then rebuild the project.
 
 ## :clap: Contribution
 
