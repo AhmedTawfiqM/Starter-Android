@@ -1,7 +1,11 @@
 ![Message](https://img.shields.io/static/v1?label=Android&message=Project&color=green)
 ![License](https://img.shields.io/badge/License-Apache-blue.svg)
 
-**Starter Android**  Codebase for your Android Project with Clean Architecture and Modular Architecture ..the Codebase contains all abstraction and Infrastructure u need to build Complex Apps.
+**Starter Android**  is a Codebase for your Android Project with Clean Architecture and Modular Architecture  , the Codebase contains all abstraction and Infrastructure u need to build Complex Apps.
+
+<p align="center">
+<img src="https://github.com/AhmedTawfiqM/starter-android-library/blob/master/logo.png" alt="AndroidLibray"/>
+</p>
 
 # Table of contents
 
@@ -20,7 +24,6 @@
 - contains AppSCreen: abstraction layer of your screens by Navigation Compose.
 - contains NavControllerHost: manage hosing between screens.
 
-
 ## Software Stack
 - Kotlin <br/>
 - MVVM  
@@ -31,7 +34,7 @@
 - jetpack Compose 
 - Navigation Compose 
 - Clean Architecture 
-- Modular Architecture 
+- Modular Architecture (domain - adata - presenatation) layers
 - Used Design Patterns: Startegy , Templete Method , Factory , SingleTon Patterns.
 
 <br/>
