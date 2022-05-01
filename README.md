@@ -20,7 +20,6 @@
 - contains AppSCreen: abstraction layer of your screens by Navigation Compose.
 - contains NavControllerHost: manage hosing between screens.
 
-### Api End Point https://jsonplaceholder.typicode.com
 
 ## Software Stack
 - Kotlin <br/>
