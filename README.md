@@ -36,7 +36,7 @@
 - Navigation Compose 
 - Clean Architecture 
 - Modular Architecture (domain - adata - presenatation) layers
-- Used Design Patterns: Startegy , Templete Method , Factory , SingleTon Patterns.
+- Design Patterns: Startegy , Templete Method , Factory , SingleTon Patterns.
 
 <br/>
 <img src="https://github.com/AhmedTawfiqM/Albums/blob/master/clean_arch.png" alt="clean-architecture"/>
