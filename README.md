@@ -15,7 +15,7 @@
 
 
 ## Description
-- all Compenents of Project are Completely Reusable.
+- all Components of Project are Completely Reusable.
 - The project depends on Navigation Jetpack Compose, u can build seperated Navigation Host with related screens.
 - There is Factory to create awesome NavHost to build related Screens. 
 - support Error Handling with scope of App. 
