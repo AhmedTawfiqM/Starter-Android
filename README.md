@@ -13,6 +13,7 @@
 - [Software Stack](#Stack)
 - [Why](#why)
 - [Installation](#installation)
+- [Demo](#Demo)
 
 
 ## Description
@@ -60,6 +61,12 @@
 2. change applicationID (packageName ) as you like.
 3. change the app ame.
 4. may need to sync , clean then rebuild the project.
+
+# Demo
+
+[Albums App](https://github.com/AhmedTawfiqM/Albums)
+example app demonstrates how reusabilty , maintainablilty , changability and readability are Provided.
+</br>
 
 ## :clap: Contribution
 
