@@ -37,7 +37,7 @@
 <br/>
 <img src="https://github.com/AhmedTawfiqM/Albums/blob/master/clean_arch.png" alt="clean-architecture"/>
 
-# why Modular Architecture ?
+# Why Modular Architecture ?
 
 - The Project is Clean , Testable , Maintainable and changable
 - High quality App with high cohesion and low coupling
